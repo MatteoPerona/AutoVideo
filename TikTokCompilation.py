@@ -3,8 +3,8 @@ import ConcatFiles as concatenator
 import VidInfoGen as info 
 from time import time
 
-EMAIL = ['trendingclock@gmail.com']
-PASSWORD = ['BncLR10!']
+EMAIL = []
+PASSWORD = []
 
 
 def concatProcess(fname, cond):
