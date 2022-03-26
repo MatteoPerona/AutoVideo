@@ -3,12 +3,6 @@ import pyautogui
 from getpass import getpass
 import time
 
-'''
-URL = ['https://studio.youtube.com/channel/UC-Vpcs3DXBBB2fJn80Jq-8A']
-EMAIL = ['trendingclock@gmail.com']
-PASSWORD = ['BncLR10!']
-'''
-
 driver = webdriver.Chrome("/Users/teoscomputer/src/chromedriver")
      
 def logIn(url, email, password):
